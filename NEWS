@@ -1,9 +1,125 @@
 ==============
-Version 3.26.2
+Version 3.34.0
 ==============
 
 * Updated translations:
+  ca        (Jordi Mas)
+  cs        (Marek Černocký)
+  de        (Christian Kirbach)
+  es        (Daniel Mustieles)
+  gl        (Fran Dieguez)
+  hu        (Gábor Kelemen)
+  it        (Milo Casagrande)
+  ko        (Seong-ho Cho)
+  pl        (Piotr Drąg)
   pt_BR     (Rafael Fontenelle)
+  sv        (Anders Jonsson)
+
+===============
+Version 3.33.90
+===============
+
+* Updates to Getting Started (Petr Kovar, Jakub Steiner)
+* Updated translations:
+  ca        (Jordi Mas)
+  lt        (Petr Kovar)
+  ro        (Daniel Șerbănescu)
+
+==============
+Version 3.32.2
+==============
+
+* Updates to Getting Started (Jakub Steiner, Petr Kovar)
+* Updated translations:
+  es        (Daniel Mustieles)
+  fi        (Jiri Grönroos)
+  it        (Milo Casagrande)
+  pl        (Piotr Drąg)
+  pt_BR     (Rafael Fontenelle)
+  sv        (Anders Jonsson)
+
+==============
+Version 3.32.1
+==============
+
+* Updated translations:
+  de        (Christian Kirbach)
+  eo        (Carmen Bianca Bakker)
+  it        (Milo Casagrande)
+  pt_BR     (Rafael Fontenelle)
+  sr        (Марко Костић)
+
+==============
+Version 3.32.0
+==============
+
+* Updates to Getting Started (Petr Kovar)
+* Updated translations:
+  cs        (Marek Cernocky)
+  es        (Daniel Mustieles)
+  hu        (Balázs Úr)
+  lt        (Aurimas Černius)
+  pl        (Piotr Drąg)
+  sv        (Anders Jonsson)
+
+===============
+Version 3.31.91
+===============
+
+* Updated translations:
+  it        (Milo Casagrande)
+
+==============
+Version 3.30.0
+==============
+
+* Updated translations:
+  ca        (Jordi Mas)
+  fr        (Charles Monzat)
+  ko        (Seong-ho Cho)
+
+==============
+Version 3.28.2
+==============
+
+* Videos for all supported locales are now rendered using VP9 instead of VP8
+  (Petr Kovar)
+* Updated translations:
+  hr        (gogo)
+  lt        (Piotr Drąg)
+  nl        (Piotr Drąg)
+  ru        (Piotr Drąg)
+
+==============
+Version 3.28.1
+==============
+
+* Updates to Getting Started (Petr Kovar)
+* Videos for most locales are now rendered using VP9 instead of VP8
+  (Petr Kovar)
+* Updated translations:
+  hr        (gogo)
+  lv        (Rūdolfs Mazurs)
+  nl        (Hannie Dumoleyn)
+  ro        (Daniel Șerbănescu)
+
+==============
+Version 3.28.0
+==============
+
+* Updates to Getting Started (Piotr Drąg, Petr Kovar, hanniedu, Anders Jonsson)
+* Updated translations:
+  cs        (Marek Cernocky)
+  da        (Ask Hjorth Larsen)
+  de        (Christian Kirbach)
+  es        (Piotr Drąg, Daniel Mustieles)
+  fi        (Jiri Grönroos)
+  gl        (Marcos Lans, Fran Dieguez)
+  hr        (gogo, goranvid)
+  hu        (Gábor Kelemen)
+  pl        (Piotr Drąg)
+  pt_BR     (Isaac F. Ferreira Filho)
+  ro        (Daniel Șerbănescu)
   sv        (Anders Jonsson)
 
 ==============
