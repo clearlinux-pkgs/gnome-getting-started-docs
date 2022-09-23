@@ -4,7 +4,7 @@
 #
 Name     : gnome-getting-started-docs
 Version  : 3.38.1
-Release  : 7
+Release  : 8
 URL      : https://download.gnome.org/sources/gnome-getting-started-docs/3.38/gnome-getting-started-docs-3.38.1.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-getting-started-docs/3.38/gnome-getting-started-docs-3.38.1.tar.xz
 Summary  : No detailed summary available
