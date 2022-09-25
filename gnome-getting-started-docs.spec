@@ -4,7 +4,7 @@
 #
 Name     : gnome-getting-started-docs
 Version  : 3.38.1
-Release  : 9
+Release  : 10
 URL      : https://download.gnome.org/sources/gnome-getting-started-docs/3.38/gnome-getting-started-docs-3.38.1.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-getting-started-docs/3.38/gnome-getting-started-docs-3.38.1.tar.xz
 Summary  : No detailed summary available
@@ -44,7 +44,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1613502020
+export SOURCE_DATE_EPOCH=1664148605
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
@@ -61,10 +61,10 @@ export no_proxy=localhost,127.0.0.1,0.0.0.0
 make %{?_smp_mflags} check
 
 %install
-export SOURCE_DATE_EPOCH=1613502020
+export SOURCE_DATE_EPOCH=1664148605
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/gnome-getting-started-docs
-cp %{_builddir}/gnome-getting-started-docs-3.38.1/COPYING %{buildroot}/usr/share/package-licenses/gnome-getting-started-docs/a1440af5bf60eee86beb5031a36fd29a4dbe9f0a
+cp %{_builddir}/gnome-getting-started-docs-%{version}/COPYING %{buildroot}/usr/share/package-licenses/gnome-getting-started-docs/a1440af5bf60eee86beb5031a36fd29a4dbe9f0a || :
 %make_install
 
 %files
